@@ -6,7 +6,7 @@
 # 💫 About Me:
 Hello, I’m Jihad, .my core skill is based on html, css, javaScript<br>and I love to do most of the things with React Project.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh. 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mhshihab2604&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidul2004&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
@@ -21,9 +21,8 @@ Hello, I’m Jihad, .my core skill is based on html, css, javaScript<br>and I lo
 
 <h3 align="center">
     
-[![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/mhshihab2604)
-[![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&logo=instagram&labelColor=252526)](https://www.instagram.com/mhshihab2604/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=242424)](https://www.linkedin.com/in/mehedihasanshihab/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/share/dbMWtFD4uzSn8KqU/)
+[![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&logo=instagram&labelColor=252526)](https://www.instagram.com/islam.jahidul.jihad/profilecard/?igsh=NDl5cXowY28xc2ps)
 </h3>
 
 
@@ -63,8 +62,8 @@ Hello, I’m Jihad, .my core skill is based on html, css, javaScript<br>and I lo
 
 <div align="center">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul2004&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mhshihab2604 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul2004&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jahidul2004 :: Top Langs" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidul2004&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mhshihab2604 Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidul2004&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jahidul2004 Github Stats">
 
 </br>
