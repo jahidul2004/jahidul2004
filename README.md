@@ -4,7 +4,7 @@
 
 ##### Web Devoloper
 # 💫 About Me:
-Hello, I’m Jihad, .my core skill is based on html, css, javaScript<br>and I love to do most of the things with React Project.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh. 
+Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScript<br>and I love to do most of the things with React Project.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh. 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidul2004&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
