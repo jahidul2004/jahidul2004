@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/LSQBPLB/jahidul-jihad.png">
+<img src="https://i.ibb.co.com/jkBGzkg/jahidul-islam-jihad.jpg">
 <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad</h1>
 <h3 align="center">A passionate Front-End developer from Bangladesh</h3>
 
