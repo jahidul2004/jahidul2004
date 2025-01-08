@@ -23,7 +23,10 @@ Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScri
     
 [![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/share/dbMWtFD4uzSn8KqU/)
 [![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&logo=instagram&labelColor=252526)](https://www.instagram.com/islam.jahidul.jihad/profilecard/?igsh=NDl5cXowY28xc2ps)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-1A1B27?style=flat&logo=whatsapp&labelColor=252526)](https://wa.me/8801787275288)
+
 </h3>
+
 
 
 
