@@ -38,7 +38,7 @@ Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScri
 ![CSS3](https://img.shields.io/badge/-CSS3-1A1B27?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A1B27?style=flat&logo=javascript&labelColor=252526)
 ![React](https://img.shields.io/badge/-React-1A1B27?style=flat&logo=react&labelColor=252526)
-![React-Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
+![Tanstack-Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-1A1B27?style=flat&logo=Node.js&labelColor=252526)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1A1B27?style=flat&logo=mongodb&labelColor=252526)
