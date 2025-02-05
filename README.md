@@ -1,5 +1,16 @@
 <img src="https://i.ibb.co.com/jkBGzkg/jahidul-islam-jihad.jpg">
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidul2004&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/badge/Focus-Frontend-brighteen"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/badge/Living-Dhaka-brighteen"/> 
+  </a>
+     </p>
+
 
 <div>
     <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad <br>A passionate Front-End developer from Bangladesh</h1>
@@ -25,25 +36,23 @@
   <p>Hello, I’m Jahidul Islam Jihad. My core skill is based on HTML, CSS, JavaScript, and I love to do most of the things with React projects. I am skilled at MERN Stack. I have a strong passion for learning and implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh.</p>
 </div>
 
-
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=jahidul2004&theme=dark">
     <img src="https://streak-stats.demolab.com?user=jahidul2004&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidul2004&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-Frontend-brighteen"/> 
-  </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/badge/Living-Dhaka-brighteen"/> 
-  </a>
-     </p>
+<br>
+<br>
+<div align="center">
+<h3>🚀 Current Activities:</h3>
+ <br>
+🔍 Exploring Next.js to enhance my React skills. <br>
+🎓 Learning React Native to build mobile applications. <br>
+💡 Experimenting with Tailwind CSS for better UI design. <br>
+</div>
+<br>
+<br>
 
 <h3 align="center">💻 Languages and Tools:</h3>
 
@@ -90,7 +99,6 @@
 </br>
 </br>
 </br>
-
 
 <i align="center">😊 Happy Coding!</i>
 
