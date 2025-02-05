@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad</h1>
 <h3 align="center">A passionate Front-End developer from Bangladesh</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jahidul2004&theme=dark)](https://streak-stats.demolab.com?user=jahidul2004&theme=dark)
+
+
 <p align="center">
     <a href="https://www.facebook.com/share/dbMWtFD4uzSn8KqU/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
