@@ -2,7 +2,23 @@
 <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad</h1>
 <h3 align="center">A passionate Front-End developer from Bangladesh</h3>
 
-##### Web Devoloper
+<p align="center">
+    <a href="https://www.facebook.com/share/dbMWtFD4uzSn8KqU/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://www.instagram.com/islam.jahidul.jihad/profilecard/?igsh=NDl5cXowY28xc2ps" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://wa.me/8801787275288" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://jahidul-jihad.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" />
+    </a>
+</p>
+
+
+
 # 💫 About Me:
 Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScript<br>and I love to do most of the things with React Project.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh. 
 
@@ -69,18 +85,3 @@ Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScri
 </br>
 
 
-### 🌍 Socials:
-<p align="center">
-    <a href="https://www.facebook.com/share/dbMWtFD4uzSn8KqU/" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://www.instagram.com/islam.jahidul.jihad/profilecard/?igsh=NDl5cXowY28xc2ps" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://wa.me/8801787275288" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <a href="https://jahidul-jihad.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Website" />
-    </a>
-</p>
