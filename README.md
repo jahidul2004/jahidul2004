@@ -1,16 +1,14 @@
 <img src="https://i.ibb.co.com/jkBGzkg/jahidul-islam-jihad.jpg">
-<h1 align="center">Hi 👋, I'm Jahidul Islam Jihad</h1>
-<h3 align="center">A passionate Front-End developer from Bangladesh</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jahidul2004&theme=dark)](https://streak-stats.demolab.com?user=jahidul2004&theme=dark)
 
+<div>
+    <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad <br>A passionate Front-End developer from Bangladesh</h1>
+    <h4 align="center"></h4>
+</div>
 
 <p align="center">
     <a href="https://www.facebook.com/share/dbMWtFD4uzSn8KqU/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="https://www.instagram.com/islam.jahidul.jihad/profilecard/?igsh=NDl5cXowY28xc2ps" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://wa.me/8801787275288" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -22,8 +20,19 @@
 
 
 
-# 💫 About Me:
-Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScript<br>and I love to do most of the things with React Project.I am Skilled At MERN Stack. I have a strong passion<br>for learning & implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh. 
+<div align="center">
+  <h2>💫 About Me:</h2>
+  <p>Hello, I’m Jahidul Islam Jihad. My core skill is based on HTML, CSS, JavaScript, and I love to do most of the things with React projects. I am skilled at MERN Stack. I have a strong passion for learning and implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh.</p>
+</div>
+
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=jahidul2004&theme=dark">
+    <img src="https://streak-stats.demolab.com?user=jahidul2004&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidul2004&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
@@ -72,13 +81,6 @@ Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScri
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-</h3>
-
-<i>😊 Happy Coding!</i>
-
-</div>
-
 <div align="center">
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidul2004&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jahidul2004 :: Top Langs" /></p>
@@ -86,5 +88,9 @@ Hello, I’m Jahidul Islam Jihad, .my core skill is based on html, css, javaScri
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidul2004&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="jahidul2004 Github Stats">
 
 </br>
+</br>
+</br>
 
+
+<i align="center">😊 Happy Coding!</i>
 
