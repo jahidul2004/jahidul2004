@@ -36,6 +36,9 @@
   <p>Hello, I’m Jahidul Islam Jihad. My core skill is based on HTML, CSS, JavaScript, and I love to do most of the things with React projects. I am skilled at MERN Stack. I have a strong passion for learning and implementing new web technologies and standards. I’m currently studying computer engineering at Shyamoli Ideal Polytechnic Institute, Bangladesh.</p>
 </div>
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=jahidul2004&theme=dark">
     <img src="https://streak-stats.demolab.com?user=jahidul2004&theme=dark" alt="GitHub Streak" />
@@ -43,10 +46,8 @@
 </p>
 
 <br>
-<br>
 <div align="center">
 <h3>🚀 Current Activities:</h3>
- <br>
 🔍 Exploring Next.js to enhance my React skills. <br>
 🎓 Learning React Native to build mobile applications. <br>
 💡 Experimenting with Tailwind CSS for better UI design. <br>
