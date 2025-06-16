@@ -40,9 +40,8 @@
 <br>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=jahidul2004&theme=dark">
-    <img src="https://streak-stats.demolab.com?user=jahidul2004&theme=dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahidul2004&theme=radical&hide_border=true" />
+  <br>
 </p>
 
 <br>
