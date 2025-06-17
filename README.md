@@ -14,7 +14,7 @@
 
 <div>
     <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad</h1>
-    <h4 align="center">A passionate MERN Stack developer from Bangladesh</h4>
+    <h4 align="center">A passionate Full Stack Developer From Bangladesh</h4>
 </div>
 
 <p align="center">
