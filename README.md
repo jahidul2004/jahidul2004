@@ -13,8 +13,8 @@
 
 
 <div>
-    <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad <br>A passionate MERN Stack developer from Bangladesh</h1>
-    <h4 align="center"></h4>
+    <h1 align="center">Hi 👋, I'm Jahidul Islam Jihad</h1>
+    <h4 align="center">A passionate MERN Stack developer from Bangladesh</h4>
 </div>
 
 <p align="center">
