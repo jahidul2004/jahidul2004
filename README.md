@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/LXY28xPX/github-Banner.png">
+<img src="https://drive.google.com/uc?export=view&id=1uLsgJo8_GBS2uQxzp--Kb6xCvipj1gpb">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jahidul2004&label=Profile%20views&color=4DC71F&style=flat" alt="araf7-7" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
