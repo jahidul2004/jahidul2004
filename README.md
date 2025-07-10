@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Age-21-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-Full-Stack-brighteen"/> 
+    <img src="https://img.shields.io/badge/Focus-Full Stack-brighteen"/> 
   </a>  
   <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
     <img src="https://img.shields.io/badge/Living-Dhaka-brighteen"/> 
